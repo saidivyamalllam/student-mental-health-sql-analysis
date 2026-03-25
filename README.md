@@ -1,4 +1,5 @@
-# Student Mental Health Analysis Using SQL
+# Student Mental Health Analysis Based on Stay Duration (SQL)
+
 
 ## About this project
 I worked on this small SQL project to understand how the duration of stay affects students’ mental health.
@@ -18,3 +19,8 @@ The idea was to see whether students who stay for a shorter time experience more
 
 ## Final thought
 This was a simple project, but it helped me understand how to use SQL for real analysis and how to turn data into meaningful insights.
+
+## What I learned
+- Writing SQL queries using GROUP BY and AVG  
+- Understanding how to analyze patterns in data  
+- Converting data results into simple insights  
