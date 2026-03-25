@@ -1,4 +1,4 @@
-# Student Mental Health Analysis using SQL
+# Student Mental Health Analysis Using SQL
 
 ## About this project
 I worked on this small SQL project to understand how the duration of stay affects students’ mental health.
